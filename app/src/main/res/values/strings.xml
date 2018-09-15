@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mc Nouvel News</string>
+    <string name="no_news_found">No news articles were found. Please reload the app or check after a few minutes</string>
+    <string name="no_internet_connection">No internet connection. Make Sure you are connected to the internet and reload the app.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Mc Nouvel News Settings</string>
+
+    <string name="settings_news_category_label">Category</string>
+    <string name="settings_news_category_key" translatable="false">news_category</string>
+    <string name="settings_news_category_default" translatable="false">@string/settings_news_category_sports_value</string>
+
+    <string name="settings_news_category_sports_label">Sports</string>
+    <string name="settings_news_category_sports_value" translatable="false">sport</string>
+
+    <string name="settings_news_category_business_label">Business</string>
+    <string name="settings_news_category_business_value" translatable="false">business</string>
+
+    <string name="settings_news_category_money_label">Money</string>
+    <string name="settings_news_category_money_value" translatable="false">money</string>
+
+    <string name="settings_news_country_label">Country</string>
+    <string name="settings_news_country_key" translatable="false">news_country</string>
+    <string name="settings_news_country_default" translatable="false">@string/settings_news_country_usa_value</string>
+
+    <string name="settings_news_country_usa_label">United States</string>
+    <string name="settings_news_country_usa_value" translatable="false">us</string>
+
+    <string name="settings_news_country_uk_label">United Kingdom</string>
+    <string name="settings_news_country_uk_value" translatable="false">uk</string>
+
+    <string name="settings_news_country_au_label">Australia </string>
+    <string name="settings_news_country_au_value" translatable="false">au</string>
+</resources>

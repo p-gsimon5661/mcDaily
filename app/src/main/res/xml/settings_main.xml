@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+    <ListPreference
+        android:defaultValue="@string/settings_news_country_default"
+        android:entries="@array/settings_filter_by_country_labels"
+        android:entryValues="@array/settings_filter_by_country_values"
+        android:key="@string/settings_news_country_key"
+        android:title="@string/settings_news_country_label" />
+
+    <ListPreference
+        android:defaultValue="@string/settings_news_category_default"
+        android:entries="@array/settings_filter_by_category_labels"
+        android:entryValues="@array/settings_filter_by_category_values"
+        android:key="@string/settings_news_category_key"
+        android:title="@string/settings_news_category_label" />
+</PreferenceScreen>

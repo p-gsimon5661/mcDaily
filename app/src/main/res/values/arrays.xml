@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_filter_by_category_labels">
+        <item>@string/settings_news_category_sports_label</item>
+        <item>@string/settings_news_category_money_label</item>
+        <item>@string/settings_news_category_business_label</item>
+    </string-array>
+
+    <string-array name="settings_filter_by_category_values">
+        <item>@string/settings_news_category_sports_value</item>
+        <item>@string/settings_news_category_money_value</item>
+        <item>@string/settings_news_category_business_value</item>
+    </string-array>
+
+    <string-array name="settings_filter_by_country_labels">
+        <item>@string/settings_news_country_au_label</item>
+        <item>@string/settings_news_country_usa_label</item>
+        <item>@string/settings_news_country_uk_label</item>
+    </string-array>
+
+    <string-array name="settings_filter_by_country_values">
+        <item>@string/settings_news_country_au_value</item>
+        <item>@string/settings_news_country_usa_value</item>
+        <item>@string/settings_news_country_uk_value</item>
+    </string-array>
+</resources>
